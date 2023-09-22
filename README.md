@@ -14,6 +14,7 @@ Laboratory Scene
 - Four Niryo robots passing fuel rod through perspex wall holes
 - Sensors on wall holes to detect fuel rod and signal next robot
 - Receptacle with sensors to detect open slots for fuel rod placement
+
 Factory Scene
 ![Factory Scene](https://github.com/Jgan0290/Robotic-Arm-Fuel-Rod-Handling-Simulation/assets/72658054/3de83b15-eb14-4ab8-998b-635e45aec95f)
 - Conveyor belt continually feeds fuel rods to first robot
