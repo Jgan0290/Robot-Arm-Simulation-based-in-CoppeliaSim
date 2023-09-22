@@ -20,15 +20,14 @@ Factory Scene
 
 # Results
 - Robots successfully passed fuel rod between each other in the lab scene
-Issues encountered in factory scene:
-- Fuel rods falling off conveyor belt due to high speeds
-- Unsynchronized robot motions interfering with passing
-- Inaccurate placement in receptacle slots
-
-Solved by:
-- Reducing conveyor belt speed
-- Increasing spacing between fuel rods
-- Increasing robot joint velocities/accelerations
+- Issues encountered in factory scene:
+  - Fuel rods falling off conveyor belt due to high speeds
+  - Unsynchronized robot motions interfering with passing
+  - Inaccurate placement in receptacle slots
+- Solved by:
+  - Reducing conveyor belt speed
+  - Increasing spacing between fuel rods
+  - Increasing robot joint velocities/accelerations
 
 # Conclusion
 The project demonstrated robotic coordination via sensors and signaling to complete a nuclear fuel rod handling task. Some limitations were uncovered in the continuous factory setting related to robot positioning and conveyance. These could be addressed in future work by implementing inverse kinematics for more precise robot motions and adding collision avoidance capabilities.
