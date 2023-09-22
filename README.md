@@ -11,15 +11,11 @@ The simulation utilizes four Niryo-1 robotic arms to complete the fuel rod handl
 # Scenes and Features
 Laboratory Scene
 ![Lab Scene](https://github.com/Jgan0290/Robotic-Arm-Fuel-Rod-Handling-Simulation/assets/72658054/294df28b-a1eb-41fd-ab8a-5cb1d6beee86)
-
-<p align="center">
-</p>
 - Four Niryo robots passing fuel rod through perspex wall holes
 - Sensors on wall holes to detect fuel rod and signal next robot
 - Receptacle with sensors to detect open slots for fuel rod placement
 Factory Scene
-<p>
-</p>
+![Factory Scene](https://github.com/Jgan0290/Robotic-Arm-Fuel-Rod-Handling-Simulation/assets/72658054/3de83b15-eb14-4ab8-998b-635e45aec95f)
 - Conveyor belt continually feeds fuel rods to first robot
 - Robots work continuously to pass rods and fill receptacle slots
 - Sensors stop belt when rod in position and detect open receptacle slots
